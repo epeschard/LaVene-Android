@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1010621452905",
+    "firebase_url": "https://lavene-25101.firebaseio.com",
+    "project_id": "lavene-25101",
+    "storage_bucket": "lavene-25101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010621452905:android:9a5c2b7e7da025db",
+        "android_client_info": {
+          "package_name": "me.peschard.lavene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010621452905-ad45d3khudbiaterho7gjvp37k9bohfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.peschard.lavene",
+            "certificate_hash": "473dfdef59018ab8f05c2743120f6c1b8042c945"
+          }
+        },
+        {
+          "client_id": "1010621452905-vv3pgl4e0dp8k17f357thf4m07oikgho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZd4igFIHayMSEga9-LP49zNZx7lfMPIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010621452905-n7t5ln93mtn93d1fpd0ja3t11879an3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.peschard.LaVene"
+              }
+            },
+            {
+              "client_id": "1010621452905-vv3pgl4e0dp8k17f357thf4m07oikgho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
