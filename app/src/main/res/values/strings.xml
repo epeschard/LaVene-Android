@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">La Vene</string>
+
+    <string name="tab_menu">Menu</string>
+    <string name="tab_forYou">For You</string>
+    <string name="tab_cart">Cart</string>
+    <string name="tab_profile">Profile</string>
+
+    <string name="fragment_path_products">products</string>
+    <string name="fragment_path_forYou">For You fragment</string>
+    <string name="fragment_path_cart">order</string>
+    <string name="fragment_path_profile">Profile fragment</string>
+
+    <string name="product_list_image">Product item image</string>
+</resources>
